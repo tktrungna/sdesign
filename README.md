@@ -17,3 +17,4 @@ High availability, Consistency, Latency
 # Reference
 * https://www.educative.io/blog/system-design-primer
 * https://github.com/donnemartin/system-design-primer
+* [Grokking System Design Interview](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
