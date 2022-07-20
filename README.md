@@ -5,7 +5,7 @@ This is a bookmmark for system design
 ### Functional requirements
 ### Nonfunctional requiurement
 High availability, Consistency, Latency
-## 2. Back-of-envelop estimationo
+## 2. Back-of-envelop estimation
 ### Storage
 ### Read/Write QPS
 ## 3. Data flow
