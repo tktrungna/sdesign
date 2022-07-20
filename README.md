@@ -16,3 +16,4 @@ High availability, Consistency, Latency
 
 # Reference
 https://www.educative.io/blog/system-design-primer
+https://github.com/donnemartin/system-design-primer
